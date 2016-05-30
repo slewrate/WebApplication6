@@ -125,6 +125,7 @@
     <Content Include="App_Data\TelerikVSX.mdf" />
     <Content Include="Global.asax" />
     <Content Include="ImageUploader.aspx" />
+    <Content Include="sqltable.sql" />
     <Content Include="TelerikWebForm.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
